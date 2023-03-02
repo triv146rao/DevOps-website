@@ -15,6 +15,11 @@
     align-items: center;
     justify-content: center;
 }
+.warning
+{
+  color:#fff
+  
+}
 
 nav{
     width: 100%;
